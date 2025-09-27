@@ -11,6 +11,6 @@
     "netlify-cli": "^23.8.0"
   },
   "dependencies": {
-    "react-scripts": "^0.0.0"
+    "react-scripts": "^5.0.1"
   }
 }
