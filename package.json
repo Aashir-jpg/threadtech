@@ -4,10 +4,9 @@
   "private": true,
   "homepage": "https://Aashir-jpg.github.io/threadtech",
   "scripts": {
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d docs"
   },
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
 }
-
